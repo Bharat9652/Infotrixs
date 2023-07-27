@@ -1,2 +1,0 @@
-# Infotrixs
-Internship Projects Repository
